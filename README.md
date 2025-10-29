@@ -8,4 +8,4 @@ Genus OUTPUT: Schematic
 Innovus GDSII file:
 
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 180306" src="https://github.com/user-attachments/assets/40eb5448-57ec-4b32-b171-4f4746d68c21" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64150f9d-a9bd-4dd1-a92c-849127457937" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb9c5aa1-f513-4682-9782-68128873ae4e" />
